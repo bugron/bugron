@@ -1,11 +1,10 @@
-## Hi there, I'm Arsen  👋 
+## Hi there, I'm Arsen  👋   
 
 I'm a software engineer passionate about JavaScript and React.js stuff. Always looking for ways to improve DX at my teams and contribute the best I can.
 
 ### 🔭 I’m currently working on
   - My [YouTube channel](https://www.youtube.com/channel/UCca-ncHQHb8DOD3oXTAOgjg) where I'll be speaking about translating technical writings, engineering, developer experience etc.
-  - Preparing for my [OpenJS Node.js Application Developer (JSNAD)](https://training.linuxfoundation.org/certification/jsnad/) certification exam.
-  - My React.js course. More info coming soon...
+  - ~~Preparing for my [OpenJS Node.js Application Developer (JSNAD)](https://training.linuxfoundation.org/certification/jsnad/) certification exam.~~ Received [my JSNAD certificate](https://www.credly.com/badges/efdbe93e-c7fa-4f4d-9df6-7c41eb0d44e3/public_url)!
 
 ### 🤔 I’m looking for help with
 Getting more contributors for [hy.javascript.info](https://github.com/javascript-tutorial/hy.javascript.info) so that we can publish translated articles ASAP 🚀🚀🚀 (see the progress [here](https://javascript.info/translate)). Also check out my other projects like [awesome-armdevs](https://github.com/bugron/awesome-armdevs).
